@@ -1,4 +1,4 @@
-# Mixed-Messages
+# Mixed-Messages Portfolio Project
 
 ## Purpose of the Program
 
