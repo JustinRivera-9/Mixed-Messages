@@ -4,7 +4,7 @@ const getRandomNum = (num) => {
 };
 
 // Object containing message options
-let messagesOptions {
+const messageOptions = {
     accuracy: ['25%', '50%', '75%', '100%'],
     player: ['LeBron James', 'Nikola Jokic', 'Steph Curry', 'Jordan Poole', 'Jayson Tatum'],
     award: ['MVP', 'Most Improved Player of the year', '6th Man of the year', 'bum of the year']
