@@ -32,5 +32,6 @@ for (let prop in messageOptions) {
     }
 }
 
+// formats the arrays to a string
 let formattedMessage = finalMessage.join('')
 console.log(formattedMessage)
