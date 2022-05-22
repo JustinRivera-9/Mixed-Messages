@@ -32,4 +32,5 @@ for (let prop in messageOptions) {
     }
 }
 
-console.log(finalMessage)
+let formattedMessage = finalMessage.join('')
+console.log(formattedMessage)
